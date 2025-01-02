@@ -8,7 +8,7 @@ This simple PowerShell script will clear the default printer queue on a Windows 
 
 or
 
-2. Download the shortcut file `Clear Printer Queue.lnk` and execute it.
+2. Download the shortcut file `Clear Printer Queue.lnk`, change extension if necessery, and execute it.
 
 or
 
